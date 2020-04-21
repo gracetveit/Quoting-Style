@@ -1,0 +1,11 @@
+{
+    "compilerOptions" : {
+        "alwaysStrict": true,
+        "noImplicitAny": true,
+        "removeComments": true,
+        "noEmitOnError": true
+    },
+    "files": [
+        "quotingStyle.ts"
+    ]
+}
